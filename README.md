@@ -6,7 +6,7 @@ Barquisimeto, Venezuela · Disponible full-time remoto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Rodríguez-blue)](https://www.linkedin.com/in/luis-rodriguez-518ab4252)
 [![Trailblazer](https://img.shields.io/badge/Salesforce-Trailblazer-00A1E0)](https://www.salesforce.com/trailblazer/fyzton)
-[![CV](https://img.shields.io/badge/CV-Download-green)](https://drive.google.com/file/d/1qQCL0Zh2a0M5RMXuhpKe-24Gn5Um/view?usp=sharing)
+[![CV](https://img.shields.io/badge/CV-Download-green)](https://drive.google.com/file/d/1qCCLc02hzAoJM85RMxuhpke-2aGnSiJm/view)
 
 ## 🛠 Tecnologías principales
 - **Backend:** PHP (Laravel), Python (Flask), Apex (Salesforce)
